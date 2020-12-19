@@ -3,9 +3,9 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: https://android.googleapis.com/packages/ota-api/package/9776e65996d77f1e54876b90c66fac6da68e4a63.zip
+  ROM_URL: https://sourceforge.net/projects/weebprojekt/files/lavender/WeebProjekt-3.0.2%2B-20201218-0342-OFFICIAL-BETA.zip/download
   ROM_NAME: Generic
-  ZIP_NAME: Vos3_aris_pro_leeminh
+  ZIP_NAME: Weeb_kudou
   TZ: Asia/Kolkata
 jobs:
   build:
